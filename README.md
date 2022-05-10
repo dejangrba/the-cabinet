@@ -2,8 +2,6 @@
 
 ## AI Art and Creative Agency
 
-#### [GitHub Page](https://dejangrba.github.io/the-cabinet/)
-
 ### Abstract
 
 The aim of this paper is to expand the existing critical discourse of AI art with new perspectives which can be used to examine the creative attributes of emerging practices and to assess their cultural significance and sociopolitical impact. It discusses AI art projects that explore creative agency and associated topics such as authorship, authenticity, intellectual property, and labor. The focus is on works that exemplify poetic complexity and manifest the epistemic or political ambiguities indicative of AI science, technology, and business. By comparing, acknowledging, and contextualizing their accomplishments and shortcomings, the paper outlines the possible directions to advance the field.
